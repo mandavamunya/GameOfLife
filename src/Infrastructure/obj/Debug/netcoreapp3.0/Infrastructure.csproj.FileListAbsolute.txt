@@ -1,0 +1,11 @@
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.deps.json
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\bin\Debug\netcoreapp3.0\Core.dll
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\bin\Debug\netcoreapp3.0\Core.pdb
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CopyComplete
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\manda\source\repos\2020\GameOfLife\src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.pdb

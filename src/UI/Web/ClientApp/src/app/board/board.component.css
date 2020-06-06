@@ -1,0 +1,23 @@
+.dead {
+    background-color: black;
+}
+
+.live {
+    background-color: white;
+}
+
+.board-row {
+    width: 100%;
+    height: 10px;
+}
+
+.cell {
+    width: 10px;
+    height: 10px;
+    display: inline-grid;
+    border: 0.5px solid rgba(0, 0, 0, 0.8);
+}
+
+.grid-container {
+    display: grid;
+}

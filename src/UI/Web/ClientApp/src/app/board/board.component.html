@@ -1,0 +1,12 @@
+<button (click)="start()" mat-raised-button color="primary">Start</button>
+
+<mat-card class="card">
+    <mat-card-content>
+        <div *ngFor="let row of rows">
+            <div *ngFor="let column of row.columns" class="board-row">
+                <div *ngFor="let cell of column.cells" class="cell {{cell.cellStateName}}">
+                </div>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>
